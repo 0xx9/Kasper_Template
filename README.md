@@ -1,11 +1,13 @@
 Kasper Template
 
+
+Preview
+
+-------
+
+![Kasper Template Preview](https://graphberry-imgs.imgix.net/kasper-one-page-psd-template-43.jpg?auto=compress,format&q=80&w=800)
+
 ===============
-
-![Kasper Template Preview](https://chat.openai.com/link-to-preview-image.jpg)
-
-Kasper Template is a one-page PSD template designed for personal websites and creative projects.
-
 Features
 
 --------
@@ -34,13 +36,6 @@ Installation and Usage
 
 4\.  Save your customized version of the template.
 
-Preview
-
--------
-
-![Kasper Template Preview](https://graphberry-imgs.imgix.net/kasper-one-page-psd-template-43.jpg?auto=compress,format&q=80&w=800)
-
-How to Contribute
 
 -----------------
 
@@ -56,10 +51,10 @@ License
 
 -------
 
-This template is distributed under the MIT License. See the [LICENSE]([https://chat.openai.com/LICENSE](https://www.graphberry.com/item/kasper-one-page-psd-template)) file for more information.
+This template is distributed under the MIT License. See the [LICENSE]([https://www.graphberry.com/item/kasper-one-page-psd-template])) file for more information.
 
 Contact
 
 -------
 
-For any inquiries or suggestions, please contact us at <example@email.com>.
+For any inquiries or suggestions, please contact us at <aliakbrjasim@icloud.com>.
