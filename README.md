@@ -47,12 +47,8 @@ If you want to contribute to Kasper Template, follow these steps:
 3\.  Submit a pull request to merge your changes into the main repository.
 
 License
-
--------
-
-This template is distributed under the MIT License. See the [LICENSE](([https://www.graphberry.com/item/kasper-one-page-psd-template])) file for more information.
-
-Contact
+https://www.graphberry.com/item/kasper-one-page-psd-template
+-----
 
 -------
 
