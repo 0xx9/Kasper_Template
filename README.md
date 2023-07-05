@@ -1,12 +1,5 @@
 Kasper Template
 
-
-Preview
-
--------
-
-![Kasper Template Preview](https://graphberry-imgs.imgix.net/kasper-one-page-psd-template-43.jpg?auto=compress,format&q=80&w=800)
-
 ===============
 Features
 
@@ -36,6 +29,12 @@ Installation and Usage
 
 4\.  Save your customized version of the template.
 
+
+Preview
+
+-------
+
+![Kasper Template Preview](https://graphberry-imgs.imgix.net/kasper-one-page-psd-template-43.jpg?auto=compress,format&q=80&w=800)
 
 -----------------
 
