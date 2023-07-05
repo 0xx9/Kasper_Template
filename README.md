@@ -50,7 +50,7 @@ License
 
 -------
 
-This template is distributed under the MIT License. See the [LICENSE]([https://www.graphberry.com/item/kasper-one-page-psd-template])) file for more information.
+This template is distributed under the MIT License. See the [LICENSE](([https://www.graphberry.com/item/kasper-one-page-psd-template])) file for more information.
 
 Contact
 
