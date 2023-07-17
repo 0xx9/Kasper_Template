@@ -1,6 +1,11 @@
 Kasper Template
 
 ===============
+
+## Try It Out!
+You can try the game by visiting the following link: [Guess The Number](https://0xx9.github.io/Kasper_Template/)
+
+
 Features
 
 --------
